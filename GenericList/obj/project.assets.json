@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Documents\\Visual Studio 2019\\Projects\\GenericList\\GenericList\\GenericList.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Desktop\\GenericList\\GenericList\\GenericList.csproj",
       "projectName": "GenericList",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Documents\\Visual Studio 2019\\Projects\\GenericList\\GenericList\\GenericList.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Desktop\\GenericList\\GenericList\\GenericList.csproj",
       "packagesPath": "C:\\Users\\Oscar.Lam\\.nuget\\packages\\",
-      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Documents\\Visual Studio 2019\\Projects\\GenericList\\GenericList\\obj\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Oscar.Lam\\Desktop\\GenericList\\GenericList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
